@@ -1,12 +1,31 @@
 # Java DSA Practice
 
-This repo contains basic to intermediate Data Structures and Algorithms problems solved using Java.
+This repository contains Java solutions to various Data Structures and Algorithms problems.  
+It's a personal collection for learning, improving logic, and preparing for coding interviews.
+
+---
 
 ### ✅ Problems Solved So Far:
-- Reverse a String
-- Check Palindrome
-- Find Largest of Three
-- Fibonacci (Iterative + Recursive)
-- Print Prime Numbers
 
-More coming soon!
+| Problem | File |
+|--------|------|
+| Reverse a String | `ReverseString.java` |
+| Check Palindrome | `Palindrome.java` |
+| Find Largest of Three Numbers | `LargestOfThree.java` |
+| Fibonacci (Recursive + Iterative) | `Fibonacci.java` |
+| Print Prime Numbers up to N | `PrimeNumbers.java` |
+
+---
+
+### 📌 Coming Next
+- Array manipulation problems
+- Searching & sorting
+- Recursion and backtracking
+- Stack, Queue, Linked List
+
+---
+
+### 💡 How to Run
+```bash
+javac FileName.java
+java FileName

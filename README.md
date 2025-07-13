@@ -17,14 +17,6 @@ It's a personal collection for learning, improving logic, and preparing for codi
 
 ---
 
-### 📌 Coming Next
-- Array manipulation problems
-- Searching & sorting
-- Recursion and backtracking
-- Stack, Queue, Linked List
-
----
-
 ### 💡 How to Run
 ```bash
 javac FileName.java
